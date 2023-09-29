@@ -19,6 +19,7 @@ h1{
 }
 @media screen and (max-widht: 500px){
     h1{
+        text-shadow: 2px 2px 0 black;
         font-size: 4em;
     }
 }
