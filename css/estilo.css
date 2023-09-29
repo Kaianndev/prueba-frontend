@@ -17,3 +17,8 @@ h1{
     text-shadow: 4px 4px 0 black;
     font-size: 8em;
 }
+@media screen and (max-widht: 500px){
+    h1{
+        font-size: 4em;
+    }
+}
